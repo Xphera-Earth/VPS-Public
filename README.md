@@ -937,7 +937,7 @@ uv run fast_localize_accurate.py --debug \
 
 ## 📝 Notes
 
-- **Rust Code**: The Rust implementation in `localization_engine/` is for reference and not currently functional
+- **Rust Code**: The Rust implementation in `localization_engine/` is for reference
 - **Database**: Qdrant database persists between runs - no need to reprocess unless data changes
 - **Scaling**: System can handle thousands of images and millions of 3D points
 - **Accuracy**: Typical localization accuracy is appr. 15 centimeters with good feature matches
