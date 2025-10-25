@@ -1,6 +1,6 @@
 # xEarth Visual Positioning System (VPS) by XPHERA
 
-A high-performance visual localization system that determines camera pose from a single image by matching against a pre-built 3D point cloud database. The system uses xEarth's feature extraction and Qdrant vector database for fast, accurate localization.
+A high-performance visual localization system that determines camera pose from a single image by matching against a pre-built 3D point cloud database. The system uses xEarth's feature extraction and Qdrant vector database for fast, accurate localization. You can see a live demonstration here: https://youtube.com/shorts/sdTBDgs2naY?si=c_IFXctkPZYUIasA
 
 ## 🚀 Quick Start
 
